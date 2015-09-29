@@ -1,4 +1,3 @@
-# Node.js
 /**
  * webserver-db-app.js
  * 
